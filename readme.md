@@ -6,11 +6,8 @@ Register doctors: Allows doctors to register by providing their name, mobile num
 Login for doctors: Enables doctors to log in to the system.
 Register patients: Allows the registration of patients by providing their name, address, and mobile number.
 Create Covid-19 test result: Enables doctors to create Covid-19 test results for patients. This includes specifying the doctor, patient, status, and date of the report.
-Retrieve a list of all reports of a patient: Provides the ability to fetch all the reports associated with a particular 
+Retrieve a list of all reports of a patient: Provides the ability to fetch all the reports associated with a particular patient.
 
-
-
-patient.
 Retrieve a list of all reports with a specified status: Allows the retrieval of all reports that have a specified status.
 Database Models
 
